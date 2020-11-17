@@ -6,7 +6,7 @@
 | Abstraction                  | Soyutlama                    |
 | Admissible                   | *???*                        |
 | Call-by-push-value           | *???*                        |
-| Compositional                | *???*                        |
+| Compositional                | Bileşkesel                   |
 | Computation                  | Hesap                        |
 | Computational                | Hesapsal                     |
 | Computational type theory    | Hesapsal tip kuramı          |
@@ -14,8 +14,8 @@
 | Decidability                 | *???*                        |
 | Higher inductive type        | *???*                        |
 | Higher-order function        | *???*                        |
-| Induction principle          | *???*                        |
-| Inductive type               | *???*                        |
+| Induction principle          | Tümevarım ilkesi             |
+| Inductive type               | Tümevarımsal tip             |
 | Intuitionistic               | Sezgici                      |
 | Judgement                    | Yargı                        |
 | Judgemental equality         | Yargısal eşitlik             |
