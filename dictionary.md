@@ -11,7 +11,7 @@
 | Computational                | Hesapsal                               |
 | Computational type theory    | Hesapsal tip kuramı                    |
 | Decidable                    | *???*                                  |
-| Decidabılıty                 | *???*                                  |
+| Decidability                 | *???*                                  |
 | Dependent type               | Bağımlı tip                            |
 | Higher inductive type        | *???*                                  |
 | Higher-order function        | Yüksek-mertebeli fonksiyon             |
