@@ -13,6 +13,8 @@
 | Decidable                    | *???*                        |
 | Decidability                 | *???*                        |
 | Intuitionistic               | Sezgici                      |
+| Judgement                    | Yargı                        |
+| Judgemental equality         | Yargısal eşitlik             |
 | Proposition                  | Önerme                       |
 | Propositional                | *???*                        |
 | Type theory                  | Tip kuramı                   |
