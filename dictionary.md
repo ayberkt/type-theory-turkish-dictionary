@@ -16,7 +16,7 @@
 | Higher inductive type        | *???*                                  |
 | Higher-order function        | Yüksek-mertebeli fonksiyon             |
 | Induction principle          | Tümevarım ilkesi                       |
-| Inductive type               | Tümevarımsal tıp                       |
+| Inductive type               | Tümevarımsal tip                       |
 | Intuitionistic               | Sezgici                                |
 | Judgement                    | Yargı                                  |
 | Judgemental equality         | Yargısal eşitlik                       |
