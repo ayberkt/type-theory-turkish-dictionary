@@ -13,6 +13,7 @@
 | Decidable                    | *???*                                  |
 | Decidability                 | *???*                                  |
 | Dependent type               | Bağımlı tip                            |
+| Functor                      | İzleç / Fonktör                        |
 | Higher inductive type        | *???*                                  |
 | Higher-order function        | Yüksek-mertebeli fonksiyon             |
 | Induction principle          | Tümevarım ilkesi                       |
