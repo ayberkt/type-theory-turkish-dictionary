@@ -14,7 +14,7 @@
 | Decidability                 | *???*                        |
 | Dependent type               | Bağımlı tip                  |
 | Higher inductive type        | *???*                        |
-| Higher-order function        | *???*                        |
+| Higher-order function        | Yüksek-mertebeli fonksiyon   |
 | Induction principle          | Tümevarım ilkesi             |
 | Inductive type               | Tümevarımsal tip             |
 | Intuitionistic               | Sezgici                      |
