@@ -12,6 +12,7 @@
 | Computational type theory    | Hesapsal tip kuramı          |
 | Decidable                    | *???*                        |
 | Decidability                 | *???*                        |
+| Dependent type               | Bağımlı tip                  |
 | Higher inductive type        | *???*                        |
 | Higher-order function        | *???*                        |
 | Induction principle          | Tümevarım ilkesi             |
