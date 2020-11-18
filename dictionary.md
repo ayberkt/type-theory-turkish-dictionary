@@ -24,6 +24,7 @@
 | Law of excluded middle       | Üçüncü halin imkansızlığı ilkesi       |
 | Proposition                  | Önerme                                 |
 | Propositional                | *???*                                  |
+| Propositional equality       | Önermesel eşitlik                      |
 | Propositional truncation     | Önermeleştirici budama                 |
 | Truncation                   | Budama                                 |
 | Type theory                  | Tip kuramı                             |
