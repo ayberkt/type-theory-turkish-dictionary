@@ -28,4 +28,5 @@
 | Propositional truncation     | Önermeleştirici budama                 |
 | Truncation                   | Budama                                 |
 | Type theory                  | Tip kuramı                             |
+| Unit type                    | Birim tip                              |
 | Univalent                    | Tekdeğerlikli                          |
