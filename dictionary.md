@@ -30,3 +30,4 @@
 | Type theory                  | Tip kuramı                             |
 | Unit type                    | Birim tip                              |
 | Univalent                    | Tekdeğerlikli                          |
+| Well-typed                   | *???*                                  |
