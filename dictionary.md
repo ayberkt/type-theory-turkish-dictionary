@@ -31,3 +31,5 @@
 | Unit type                    | Birim tip                              |
 | Univalent                    | Tekdeğerlikli                          |
 | Well-typed                   | *???*                                  |
+| Pullback                     | Gelberi                                |
+| Pushforward                  | Gitöte                                 |
