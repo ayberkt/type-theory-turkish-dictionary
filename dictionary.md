@@ -27,6 +27,7 @@
 | Propositional equality       | Önermesel eşitlik                      |
 | Propositional truncation     | Önermeleştirici budama                 |
 | Truncation                   | Budama                                 |
+| Typechecking                 | *???*                                  |
 | Type theory                  | Tip kuramı                             |
 | Unit type                    | Birim tip                              |
 | Univalent                    | Tekdeğerlikli                          |
